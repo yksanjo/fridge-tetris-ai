@@ -1,0 +1,11 @@
+gradio>=4.0.0
+pillow>=10.0.0
+requests>=2.31.0
+
+# Optional: For vLLM backend
+# vllm>=0.6.0
+# qwen-vl-utils>=0.1.0
+
+# Optional: For Ollama backend (requests is already included above)
+# Just make sure Ollama is installed and running locally
+
