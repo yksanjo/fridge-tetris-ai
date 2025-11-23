@@ -1,5 +1,9 @@
 # 🧊 Fridge Tetris Master
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/fridge-tetris-ai?style=social)](https://github.com/yksanjo/fridge-tetris-ai/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/fridge-tetris-ai.svg)](https://github.com/yksanjo/fridge-tetris-ai/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/yksanjo/fridge-tetris-ai.svg)](https://github.com/yksanjo/fridge-tetris-ai/issues) [![Last commit](https://img.shields.io/github/last-commit/yksanjo/fridge-tetris-ai.svg)](https://github.com/yksanjo/fridge-tetris-ai/commits/main)
+
+
 The world's most judgmental refrigerator organizer with perfect 3D spatial reasoning. Uses Qwen3-VL to analyze your fridge and groceries, then provides optimal (or hilariously terrible) 3D packing instructions with arrows and savage commentary.
 
 ## Features
